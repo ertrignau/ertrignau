@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eric Trignau 👋</h1>
 
 <h3 align="center">
-Systems, Network & DevOps Developer
+Systems, Network, Fullstack & DevOps Developer
 </h3>
 
 <p align="center">
